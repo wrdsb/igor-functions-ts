@@ -18,14 +18,14 @@
         "@azure/cosmos": "^2.1.5",
         "@azure/storage-blob": "^10.3.0",
         "@azure/storage-queue": "^10.1.0",
-        "@types/lodash": "^4.14.123",
-        "@types/node": "^11.13.9",
-        "lodash": "^4.17.11",
+        "@types/lodash": "^4.14.134",
+        "@types/node": "^11.13.14",
         "google-auth-library": "^0.10.0",
-        "googleapis": "^19.0.0"
+        "googleapis": "^19.0.0",
+        "lodash": "^4.17.11"
     },
     "devDependencies": {
         "@azure/functions": "^1.0.3",
-        "typescript": "^3.3.3"
+        "typescript": "^3.5.2"
     }
 }
