@@ -22,7 +22,7 @@
         "@types/node": "^11.13.14",
         "google-auth-library": "^0.10.0",
         "googleapis": "^19.0.0",
-        "lodash": "^4.17.11"
+        "lodash": "^4.17.13"
     },
     "devDependencies": {
         "@azure/functions": "^1.0.3",
